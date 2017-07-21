@@ -1,4 +1,4 @@
-FROM debian
+FROM debian:jessie
 
 MAINTAINER Alexander Sosna <alexander.sosna@credativ.de>
 
