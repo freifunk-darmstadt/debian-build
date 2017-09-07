@@ -9,6 +9,7 @@ The following tags are supported at the moment.
 * stable / latest
 * stretch
 * jessie
+* wheezy
 * unstable
 
 Just a few tools are included to keep a "clean" environment.
