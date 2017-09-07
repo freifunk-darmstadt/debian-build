@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM debian:wheezy
 
 MAINTAINER Alexander Sosna <alexander.sosna@credativ.de>
 
